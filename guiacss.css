@@ -1,0 +1,73 @@
+padre{
+  background-color: #81E5F6;
+}
+
+
+titulo{
+  display: block;
+  font-size: 24pt;
+  font-weight: bold;
+  text-align: center;
+  background-color: #0DB9D7;
+}
+estacion {
+  display: block;
+  font-size: 20pt;
+  font-weight: bold;
+  background-color: #F329FA;
+  width: 35%;
+}
+cadena{
+  font-size: 14pt;
+  display: block;
+  background-color: #F329FA;
+  width: 35%;
+}
+canal{
+  font-size: 14;
+  font-weight: bold;
+  display: block;
+  background-color: #F329FA;
+  width: 35%;
+}
+tit{
+  font-size: 22;
+  font-weight: bold;
+  display: block;
+  background-color: #57DEF6;
+  width: 35%;
+}
+fecha{
+  font-size: 14pt;
+  display: block;
+}
+hora{
+  font-size: 14pt;
+  display: block;
+}
+duracion{
+  font-size: 14pt;
+  display: block;
+}
+descripcion{
+  font-size: 12pt;
+  display: block;
+  width: 20%;
+  font-weight: bold;
+}
+clasificacion{
+  font-size: 14pt;
+  display: block;
+}
+tipo{
+  font-size: 14pt;
+  display: block;
+}
+año{
+  font-size: 14pt;
+  display: block
+}
+calificacion{
+  font-size: 14pt;
+  display: block;
+}

@@ -1,0 +1,221 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/css" href="guiacss.css"?>
+
+<padre>
+
+<titulo>
+  Canales de TV 28/02/2017
+</titulo>
+
+<estacion>
+  Cartoon Network
+</estacion>
+
+<cadena>
+  Cartoon Network
+</cadena>
+
+<canal>
+  25
+</canal>
+
+<tit>
+  Billy y Mandy
+</tit>
+
+<fecha>
+  28/02/2017
+</fecha>
+
+<hora>
+  12:00-13:00
+</hora>
+
+<duracion>
+  1 hora
+</duracion>
+
+<descripcion>
+  Cuenta las aventuras de dos niños que
+  tienen como esclavo a la misma muerte.
+</descripcion>
+
+<clasificacion>
+  PG-13
+</clasificacion>
+
+<tipo>
+  Caricatura
+</tipo>
+
+<año>
+  2006
+</año>
+
+<calificacion>
+  8/10
+</calificacion>
+
+
+
+<tit>
+  Scooby Doo
+</tit>
+
+<fecha>
+  28/02/2017
+</fecha>
+
+<hora>
+  13:00-14:00
+</hora>
+
+<duracion>
+  1 hora
+</duracion>
+
+<descripcion>
+  Un grupo de amigos y un perro parlante resuelven misterios que se presentan en sus viajes.
+</descripcion>
+
+<clasificacion>
+  PG
+</clasificacion>
+
+<tipo>
+  Caricatura
+</tipo>
+
+<año>
+  2006
+</año>
+
+<calificacion>
+  7/10
+</calificacion>
+
+
+<tit>
+  Tom y Jerry
+</tit>
+
+<fecha>
+  28/02/2017
+</fecha>
+
+<hora>
+  14:00-15:00
+</hora>
+
+<duracion>
+  1 hora
+</duracion>
+
+<descripcion>
+  La rivalidad entre un gato y un raton nos muestran sus aventuras de dia a dia.
+</descripcion>
+
+<clasificacion>
+  PG
+</clasificacion>
+
+<tipo>
+  Caricatura
+</tipo>
+
+<año>
+  1990
+</año>
+
+<calificacion>
+  9/10
+</calificacion>
+
+
+
+<estacion>
+  Nickelodeon
+</estacion>
+
+<cadena>
+  MTV
+</cadena>
+
+<canal>
+  54
+</canal>
+
+<tit>
+  Bob Esponja
+</tit>
+
+<fecha>
+  28/02/2017
+</fecha>
+
+<hora>
+  12:00-13:00
+</hora>
+
+<duracion>
+  1 hora
+</duracion>
+
+<descripcion>
+  Vive en una piña debajo del mar.
+</descripcion>
+
+<clasificacion>
+  PG
+</clasificacion>
+
+<tipo>
+  Caricatura
+</tipo>
+
+<año>
+  2004
+</año>
+
+<calificacion>
+  7/10
+</calificacion>
+
+
+
+<tit>
+  Drake y Josh
+</tit>
+
+<fecha>
+  28/02/2017
+</fecha>
+
+<hora>
+  13:00-14:00
+</hora>
+
+<duracion>
+  1 hora
+</duracion>
+
+<descripcion>
+  Cuenta la vida de dos hermanastros totalmente distintos que se meten en muchas situaciones.
+</descripcion>
+
+<clasificacion>
+  PG-13
+</clasificacion>
+
+<tipo>
+  Show TV
+</tipo>
+
+<año>
+  2006
+</año>
+
+<calificacion>
+  10/10
+</calificacion>
+</padre>
